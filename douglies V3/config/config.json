@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x63b312a603713B17Fc740b2FDd493Ca650Ac039c",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x63b312a603713b17fc740b2fdd493ca650ac039c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Douglies",
+  "SYMBOL": "douglie",
+  "MAX_SUPPLY": 3500,
+  "WEI_COST": 3500000000000000,
+  "DISPLAY_COST": 0.0035,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
